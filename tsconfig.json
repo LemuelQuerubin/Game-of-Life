@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true,
+    "outDir": "build",
+    "target" : "ES2020",
+    "declaration": true
+  },
+  "files": [
+    "game.ts"
+  ]
+}
